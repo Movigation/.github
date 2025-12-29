@@ -17,7 +17,7 @@
 
 ## 프로젝트
 
-### [MovieSir (무비서)](https://github.com/Movigation/MovieSir)
+### [무비서 (MovieSir)](https://github.com/Movigation/MovieSir)
 
 > "비행기 탑승 시간이 5시간인데, 뭐 볼까?"
 
