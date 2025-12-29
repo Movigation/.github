@@ -11,15 +11,13 @@
 [![MovieSir](https://img.shields.io/badge/_MovieSir-Live-2563EB?style=for-the-badge)](https://moviesir.cloud)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/Movigation/MovieSir)
 
-</div>
-
 ---
 
 ## 프로젝트
 
 ### [무비서 (MovieSir)](https://github.com/Movigation/MovieSir)
 
-> "비행기 탑승 시간이 5시간인데, 뭐 볼까?"
+**"비행기 탑승 시간이 5시간인데, 뭐 볼까?"**
 
 장거리 비행, KTX 이동, 버스 여행 등 **장시간 이동하는 여행자**를 위한 영화 추천 서비스
 
@@ -54,7 +52,6 @@
 
 ## 팀원
 
-<div align="center">
 <table>
   <tr>
     <td align="center"><a href="https://github.com/qkqqkqkq"><img src="https://github.com/qkqqkqkq.png" width="100px;" alt=""/><br /><sub><b>문수현</b></sub></a><br/><sub>PM</sub></td>
@@ -64,14 +61,11 @@
     <td align="center"><a href="https://github.com/leelaeloo"><img src="https://github.com/leelaeloo.png" width="100px;" alt=""/><br /><sub><b>이태수</b></sub></a><br/><sub>Cloud/Infra</sub></td>
   </tr>
 </table>
-</div>
 
 <br/>
 
 ---
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:1d4ed8&height=100&section=footer" width="100%" />
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:1d4ed8&height=100&section=footer" width="100%" />
