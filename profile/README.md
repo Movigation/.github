@@ -54,6 +54,7 @@
 
 ## 팀원
 
+<div align="center">
 <table>
   <tr>
     <td align="center"><a href="https://github.com/qkqqkqkq"><img src="https://github.com/qkqqkqkq.png" width="100px;" alt=""/><br /><sub><b>문수현</b></sub></a><br/><sub>PM</sub></td>
@@ -63,6 +64,7 @@
     <td align="center"><a href="https://github.com/leelaeloo"><img src="https://github.com/leelaeloo.png" width="100px;" alt=""/><br /><sub><b>이태수</b></sub></a><br/><sub>Cloud/Infra</sub></td>
   </tr>
 </table>
+</div>
 
 <br/>
 
