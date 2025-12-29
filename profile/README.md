@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:1d4ed8&height=240&section=header&text=Movigation&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=스나이퍼팩토리%20카카오클라우드%20AIaaS%20마스터%20클래스%202기%203팀&descAlignY=55&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:1d4ed8&height=240&section=header&text=무비게이션&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=스나이퍼팩토리%20카카오클라우드%20AIaaS%20마스터%20클래스%202기%203팀&descAlignY=55&descSize=16" width="100%" />
 
 <br/>
 
