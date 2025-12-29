@@ -17,25 +17,57 @@
 
 ### [무비서 (MovieSir)](https://github.com/Movigation/MovieSir)
 
+<table>
+<tr>
+<td align="center">
+
 **"비행기 탑승 시간이 5시간인데, 뭐 볼까?"**
 
 장거리 비행, KTX 이동, 버스 여행 등 **장시간 이동하는 여행자**를 위한 영화 추천 서비스
 
 사용자가 입력한 시간 내에서 **최적의 영화 조합**을 AI가 찾아 추천합니다
 
+</td>
+</tr>
+</table>
+
 <br/>
 
 ### 주요 기능
 
-**시간 맞춤 추천** · 이동 시간에 딱 맞는 영화 조합 추천
+<table>
+<tr>
+<td align="center">
 
-**AI 하이브리드 추천** · LightGCN + SBERT 기반 개인화 추천
+**시간 맞춤 추천**
 
-**스마트 필터링** · 장르, OTT 플랫폼, 본 영화 제외 필터
+이동 시간에 딱 맞는 영화 조합 추천
+
+</td>
+<td align="center">
+
+**AI 하이브리드 추천**
+
+LightGCN + SBERT 기반 개인화 추천
+
+</td>
+<td align="center">
+
+**스마트 필터링**
+
+장르, OTT 플랫폼, 본 영화 제외 필터
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 ### 기술 스택
+
+<table>
+<tr>
+<td align="center">
 
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -45,6 +77,10 @@
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Kakao Cloud](https://img.shields.io/badge/Kakao_Cloud-FFCD00?style=flat-square&logo=kakao&logoColor=black)](https://cloud.kakao.com/)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
