@@ -91,7 +91,7 @@ LightGCN + SBERT 기반 개인화 추천
 <table>
   <tr>
     <td align="center"><a href="https://github.com/qkqqkqkq"><img src="https://github.com/qkqqkqkq.png" width="100px;" alt=""/><br /><sub><b>문수현</b></sub></a><br/><sub>PM</sub></td>
-    <td align="center"><a href="https://github.com/hdy__-"><img src="https://github.com/Dieod1598741.png" width="100px;" alt=""/><br /><sub><b>한대현</b></sub></a><br/><sub>Frontend</sub></td>
+    <td align="center"><a href="https://github.com/hdy__-"><img src="https://github.com/Dieod1598741.png" width="100px;" alt=""/><br /><sub><b>한대연</b></sub></a><br/><sub>Frontend</sub></td>
     <td align="center"><a href="https://github.com/tinytinalee"><img src="https://github.com/tinytinalee.png" width="100px;" alt=""/><br /><sub><b>이승원</b></sub></a><br/><sub>Backend</sub></td>
     <td align="center"><a href="https://github.com/wldn7601"><img src="https://github.com/wldn7601.png" width="100px;" alt=""/><br /><sub><b>박지우</b></sub></a><br/><sub>AI/ML</sub></td>
     <td align="center"><a href="https://github.com/leelaeloo"><img src="https://github.com/leelaeloo.png" width="100px;" alt=""/><br /><sub><b>이태수</b></sub></a><br/><sub>Cloud/Infra</sub></td>
