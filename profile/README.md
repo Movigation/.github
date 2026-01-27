@@ -2,18 +2,10 @@
 
 <img src="../assets/movigation_header.png" alt="Movigation Header" width="100%" />
 
-<br/>
-
-**이동 시간 맞춤형 AI 영화 추천 서비스**
-
-<br/>
-
 [![MovieSir](https://img.shields.io/badge/무비서_소개-Live-2563EB?style=for-the-badge)](https://moviesir.cloud)
 [![Demo](https://img.shields.io/badge/무비서_B2C-Demo-10B981?style=for-the-badge)](https://demo.moviesir.cloud)
 [![API](https://img.shields.io/badge/무비서_API-B2B-F59E0B?style=for-the-badge)](https://api.moviesir.cloud)
 [![Console](https://img.shields.io/badge/무비서_Console-Dashboard-8B5CF6?style=for-the-badge)](https://console.moviesir.cloud)
-
----
 
 ## 프로젝트
 
