@@ -4,14 +4,14 @@
 
 <br/>
 
-[![MovieSir](https://img.shields.io/badge/무비서_소개-Live-2563EB?style=for-the-badge)](https://moviesir.cloud)
-[![Demo](https://img.shields.io/badge/B2C_Demo-App-10B981?style=for-the-badge)](https://demo.moviesir.cloud)
-[![API](https://img.shields.io/badge/B2B_API-Docs-F59E0B?style=for-the-badge)](https://api.moviesir.cloud)
-[![Console](https://img.shields.io/badge/B2B_Console-Dashboard-8B5CF6?style=for-the-badge)](https://console.moviesir.cloud)
+[![무비서 소개](https://img.shields.io/badge/무비서_소개-LIVE-2563EB?style=for-the-badge)](https://moviesir.cloud)
+[![무비서 B2C](https://img.shields.io/badge/무비서_B2C-DEMO-10B981?style=for-the-badge)](https://demo.moviesir.cloud)
+[![무비서 API](https://img.shields.io/badge/무비서_API-B2B-F59E0B?style=for-the-badge)](https://api.moviesir.cloud)
+[![무비서 CONSOLE](https://img.shields.io/badge/무비서_CONSOLE-DASHBOARD-8B5CF6?style=for-the-badge)](https://console.moviesir.cloud)
 
 ---
 
-## 무비서 (MovieSir)
+## [무비서 (MovieSir)](https://github.com/Movigation/MovieSir)
 
 ### **"이동 시간에 딱 맞는 영화 조합을 AI가 추천해 드립니다."**
 
@@ -26,45 +26,48 @@
 <table>
   <tr>
     <td width="50%" align="center" valign="bottom">
-      <a href="https://moviesir.cloud">
-        <img src="https://raw.githubusercontent.com/Movigation/MovieSir/main/docs/landing_screenshot.png" alt="Landing" width="100%"/>
-      </a>
-      <br/><b>무비서 소개 페이지</b>
-      <br/><sub>서비스 소개</sub>
+      <img src="https://raw.githubusercontent.com/Movigation/MovieSir/main/docs/landing_screenshot.png" alt="Landing" width="100%"/>
+      <br/><sub><b>무비서 소개</b></sub>
+      <br/><sub>서비스 소개 페이지</sub>
     </td>
     <td width="50%" align="center" valign="bottom">
-      <a href="https://demo.moviesir.cloud">
-        <img src="https://raw.githubusercontent.com/Movigation/MovieSir/main/docs/demo_screenshot.png" alt="Demo App" width="100%"/>
-      </a>
-      <br/><b>무비서 B2C Demo App</b>
+      <img src="https://raw.githubusercontent.com/Movigation/MovieSir/main/docs/demo_screenshot.png" alt="Demo App" width="100%"/>
+      <br/><sub><b>무비서 B2C</b></sub>
       <br/><sub>사용자 맞춤 영화 추천 서비스</sub>
     </td>
   </tr>
+</table>
+
+<table>
   <tr>
     <td width="50%" align="center" valign="bottom">
-      <a href="https://api.moviesir.cloud">
-        <img src="https://raw.githubusercontent.com/Movigation/MovieSir/main/docs/api_screenshot.png" alt="API Docs" width="100%"/>
-      </a>
-      <br/><b>무비서 B2B API 소개 페이지</b>
+      <img src="https://raw.githubusercontent.com/Movigation/MovieSir/main/docs/api_screenshot.png" alt="API Docs" width="100%"/>
+      <br/><sub><b>API 소개</b></sub>
       <br/><sub>External API 문서 및 Swagger</sub>
     </td>
     <td width="50%" align="center" valign="bottom">
-      <a href="https://console.moviesir.cloud">
-        <img src="https://raw.githubusercontent.com/Movigation/MovieSir/main/docs/console-dashboard.png" alt="B2B Console" width="100%"/>
-      </a>
-      <br/><b>무비서 Console</b>
+      <img src="https://raw.githubusercontent.com/Movigation/MovieSir/main/docs/console-dashboard.png" alt="B2B Console" width="100%"/>
+      <br/><sub><b>무비서 Console</b></sub>
       <br/><sub>기업용 API 관리 대시보드</sub>
     </td>
   </tr>
+</table>
+
+### 무비서 B2B API 연동 사례: [Air-Demo](https://github.com/Movigation/Air-Demo)
+
+<table>
   <tr>
-    <td colspan="2" align="center">
-      <a href="https://github.com/Movigation/Air-Demo">
-        <img src="https://raw.githubusercontent.com/Movigation/MovieSir/main/docs/air-demo_main.png" alt="Air-Demo 탑승권" width="30%"/>
-        <img src="https://raw.githubusercontent.com/Movigation/MovieSir/main/docs/air-demo_main2.png" alt="Air-Demo 장르 선택" width="30%"/>
-        <img src="https://raw.githubusercontent.com/Movigation/MovieSir/main/docs/air-demo_main3.png" alt="Air-Demo 영화 추천" width="30%"/>
-      </a>
-      <br/><b>Air-Demo</b> - 무비서 B2B API 크로스 클라우드 데모
-      <br/><sub>GCP Cloud Run에서 KakaoCloud VPC의 MovieSir API를 호출하는 항공사 앱</sub>
+    <td width="33%" align="center" valign="bottom">
+      <img src="https://raw.githubusercontent.com/Movigation/MovieSir/main/docs/air-demo_main.png" alt="Air-Demo 탑승권" width="100%"/>
+      <br/><sub><b>탑승권 화면</b></sub>
+    </td>
+    <td width="33%" align="center" valign="bottom">
+      <img src="https://raw.githubusercontent.com/Movigation/MovieSir/main/docs/air-demo_main2.png" alt="Air-Demo 장르 선택" width="100%"/>
+      <br/><sub><b>장르 선택</b></sub>
+    </td>
+    <td width="33%" align="center" valign="bottom">
+      <img src="https://raw.githubusercontent.com/Movigation/MovieSir/main/docs/air-demo_main3.png" alt="Air-Demo 영화 추천" width="100%"/>
+      <br/><sub><b>영화 추천 결과</b></sub>
     </td>
   </tr>
 </table>
