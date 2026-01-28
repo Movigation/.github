@@ -93,10 +93,10 @@
 
 ### 레포지토리
 
-| 레포지토리                                             | 설명                         |
-| ------------------------------------------------------ | ---------------------------- |
-| [**MovieSir**](https://github.com/Movigation/MovieSir) | 메인 프로젝트                |
-| [**Air-Demo**](https://github.com/Movigation/Air-Demo) | B2B API 크로스 클라우드 데모 |
+| 레포지토리                                             | 설명                            |
+| ------------------------------------------------------ | ------------------------------- |
+| [**MovieSir**](https://github.com/Movigation/MovieSir) | 메인 프로젝트                   |
+| [**Air-Demo**](https://github.com/Movigation/Air-Demo) | 무비서 API 시연용 항공사 데모앱 |
 
 ---
 
