@@ -87,7 +87,7 @@
 
 ### 아키텍처
 
-<img src="https://raw.githubusercontent.com/Movigation/MovieSir/main/docs/moviesir_infra_arch.png" alt="Architecture" width="100%"/>
+<img src="https://raw.githubusercontent.com/Movigation/MovieSir/main/docs/moviesir_infra_arch1.png" alt="Architecture" width="100%"/>
 
 <br/>
 
